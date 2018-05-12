@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/jSSC-2.8.0-Release/jssc.jar" sourcepath="lib/jSSC-2.8.0-Release/src">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/FingerPrintScanner/lib/jSSC-2.8.0-Release/javadoc/jssc-2.8.0-javadoc.jar!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar" sourcepath="lib/mysql-connector-java-5.0.8/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
